@@ -1,0 +1,4 @@
+upstream: https://github.com/WooooDyy/AgentGym
+commit: 3ef9235d23e68e7c2920c5422ad957dc8ced5c6c
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
